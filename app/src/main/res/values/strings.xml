@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ExamenUT2</string>
+    <string name="btnActSumar">Actividad Sumar</string>
+    <string name="btnInfo">Información</string>
+    <string name="tituloSumar">Actividad para sumar y restar</string>
+    <string name="informacion">Este es mi examen de Android y lo he hecho genial</string>
+    <string name="volverInicio">Volver al menu</string>
+    <string name="baseDatos">Base de Datos</string>
+    <string name="IntrNombreGrup">Introduzca el nombre del grupo</string>
+    <string name="IntroNacGrupo">Introduzca la nacionalidad</string>
+    <string name="IntroGen">Introduzca el género</string>
+    <string name="filtrar">FILTRAR</string>
+    <string name="volver">VOLVER</string>
+    <string name="todos">TODOS</string>
+    <string name="grupo">GRUPO</string>
+    <string name="nacionalidad">NACIONALIDAD</string>
+    <string name="genero">GÉNERO</string>
+    <string name="IntrYear">Introduzca el año de creación</string>
+    <string name="InseGrupo">Insertar Grupo</string>
+</resources>

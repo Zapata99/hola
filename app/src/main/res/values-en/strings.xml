@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UT2Exam</string>
+    <string name="btnActSumar">Add Activity</string>
+    <string name="btnInfo">Information</string>
+    <string name="tituloSumar">Activity to add and subtract</string>
+    <string name="informacion">This is my Android exam and I have done great</string>
+    <string name="volverInicio">Back to Menu</string>
+    <string name="baseDatos">Database</string>
+    <string name="IntrNombreGrup">Enter group name</string>
+    <string name="IntroNacGrupo">Enter nationality</string>
+    <string name="IntroGen">Enter the musical genre</string>
+    <string name="filtrar">FILTER</string>
+    <string name="volver">BACK</string>
+    <string name="todos">ALL</string>
+    <string name="grupo">GROUP</string>
+    <string name="nacionalidad">NATIONALITY</string>
+    <string name="genero">GENDER</string>
+    <string name="IntrYear">Enter the year of creation</string>
+    <string name="InseGrupo">INSERT GROUP</string>
+</resources>
